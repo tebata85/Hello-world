@@ -1,4 +1,4 @@
 # Hello-world
-This is practice [1]
+This is practice 1)
 # Refferences
-[1] test
+1) test
